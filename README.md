@@ -79,7 +79,6 @@ The dataset is structured in a single fact table with the following fields:
 * **March 2025** shows a sharp increase in **Total Funding** reaching **\$21B**
 * The trend peaks in **September 2025**, with an **Average Funding** of **\$91M**
 * A steep drop follows in **October** (Average: \$23M), before recovering slightly in **November** to **\$47M**
-* This pattern indicates highly **seasonal or event-driven funding behavior**
 
 ### b. Top 10 Funding Stages
 
